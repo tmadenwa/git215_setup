@@ -1,2 +1,2 @@
 # git215_setup
-homework m1
+## Author: Thomas Madenwald
